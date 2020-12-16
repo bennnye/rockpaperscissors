@@ -17,7 +17,7 @@ public class Rockpaperscisors {
     public static void main(String[] args) {
         System.out.println("welcome to rock paper scissors");
         System.out.println("the rules are rock beats scissors, scissors beat paper and paper beats rock");
-
+ 
         play();
     }
 
